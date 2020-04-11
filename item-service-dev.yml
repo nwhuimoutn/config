@@ -6,7 +6,7 @@ server:
   port: 8001
 
 #defaultZone
-#beiJing, shangHai, shenZhen
+#beiJing, shangHai, shenZhen111
 
 eureka:
   client:
