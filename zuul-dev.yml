@@ -33,7 +33,7 @@ hystrix:
         isolation:
           thread:
             timeoutInMilliseconds: 500
-
+#暴露端口
 management:
   endpoints:
     web:
