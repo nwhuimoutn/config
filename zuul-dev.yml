@@ -25,7 +25,7 @@ ribbon:
   ReadTimeout: 1000
   MaxAutoRetriesNextServer: 1
   MaxAutoRetries: 1
-
+#重试时间
 hystrix:
   command:
     default:
